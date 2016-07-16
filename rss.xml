@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CAFÉ ANCESTRAL]]></title>
-        <description><![CDATA[CAFÉ ANCESTRAL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Living in harmony with nature]]></title>
+        <description><![CDATA[Living in harmony with nature]]></description>
+        <link>https://thegrid.ai/cafe-ancestral/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 12:00:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 00:46:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cafe-ancestral/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c6e2e3c-e9ed-4e92-a9c2-9f4222381638.jpg">]]></description>
-            <link>undefined29bc949e-15a4-4b5f-ba6a-b3d7df916382/index.html</link>
+            <link>https://thegrid.ai/cafe-ancestral/29bc949e-15a4-4b5f-ba6a-b3d7df916382/index.html</link>
             <guid isPermaLink="false">29bc949e-15a4-4b5f-ba6a-b3d7df916382</guid>
-            <pubDate>Fri, 24 Jun 2016 11:59:31 GMT</pubDate>
+            <pubDate>Sat, 16 Jul 2016 00:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
