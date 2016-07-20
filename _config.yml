@@ -1,7 +1,7 @@
 name: CAFÉ ANCESTRAL
 favicon: null
-layout_spectrum: 0.7672066423110664
-typography_spectrum: 0.7649488125462085
+layout_spectrum: 0.2835556853096932
+typography_spectrum: 0.7452516122721136
 title: Living in harmony with nature
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.7418281394056976
+  lightness: 0.24286607140675187
+  saturation: 0.9498186965938658
+  rhythmicContrast: 0.2103897645138204
 purpose: []
